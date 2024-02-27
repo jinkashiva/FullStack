@@ -1,0 +1,32 @@
+.container{
+    background-color: blue;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+}
+.header{
+    background-color: brown;
+}
+.row1{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+.row2{
+    background-color: rgb(21, 224, 59);
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+.row3{
+    background-color: rgb(220, 15, 220);
+    width: 150px;
+    height: 150px;
+    float: left;
+    
+}
+.footer{
+    background-color: blanchedalmond;
+    height: 100px;
+}
